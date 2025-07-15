@@ -77,6 +77,8 @@ public class FrameMain extends javax.swing.JFrame {
             }
         });
     }
+    
+   // hola papito
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     // End of variables declaration//GEN-END:variables
